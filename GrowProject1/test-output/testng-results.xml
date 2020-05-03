@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="31" started-at="2020-05-02T10:09:43Z" finished-at="2020-05-02T10:09:43Z">
+  <suite name="Default suite" duration-ms="25" started-at="2020-05-03T14:45:50Z" finished-at="2020-05-03T14:45:50Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="31" started-at="2020-05-02T10:09:43Z" finished-at="2020-05-02T10:09:43Z">
-      <class name="oopsConcepts.Advance.Tests.PolymorphismTests">
-        <test-method status="PASS" signature="methodoverridingTest()[pri:0, instance:oopsConcepts.Advance.Tests.PolymorphismTests@6d8a00e3]" name="methodoverridingTest" duration-ms="15" started-at="2020-05-02T10:09:43Z" finished-at="2020-05-02T10:09:43Z">
+    <test name="Default test" duration-ms="25" started-at="2020-05-03T14:45:50Z" finished-at="2020-05-03T14:45:50Z">
+      <class name="design.patterns.Tests.CommandTests">
+        <test-method status="PASS" signature="buyStockTest()[pri:0, instance:design.patterns.Tests.CommandTests@29ee9faa]" name="buyStockTest" duration-ms="5" started-at="2020-05-03T14:45:50Z" finished-at="2020-05-03T14:45:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- methodoverridingTest -->
-        <test-method status="PASS" signature="MethodOverloadingTest()[pri:0, instance:oopsConcepts.Advance.Tests.PolymorphismTests@6d8a00e3]" name="MethodOverloadingTest" duration-ms="0" started-at="2020-05-02T10:09:43Z" finished-at="2020-05-02T10:09:43Z">
+        </test-method> <!-- buyStockTest -->
+        <test-method status="PASS" signature="sellStockTest()[pri:0, instance:design.patterns.Tests.CommandTests@29ee9faa]" name="sellStockTest" duration-ms="0" started-at="2020-05-03T14:45:50Z" finished-at="2020-05-03T14:45:50Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- MethodOverloadingTest -->
-      </class> <!-- oopsConcepts.Advance.Tests.PolymorphismTests -->
+        </test-method> <!-- sellStockTest -->
+      </class> <!-- design.patterns.Tests.CommandTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -2,8 +2,8 @@ package oopsConcepts.Advance.Tests;
 
 import org.testng.annotations.Test;
 
-import inplement.inheritance.andpolymophism.MethodOveriding;
-import inplement.inheritance.andpolymophism.MethodOverloading;
+import implement.inheritance.andpolymophism.MethodOveriding;
+import implement.inheritance.andpolymophism.MethodOverloading;
 
 public class PolymorphismTests {
 

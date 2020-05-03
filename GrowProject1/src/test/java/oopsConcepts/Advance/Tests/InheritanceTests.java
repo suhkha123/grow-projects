@@ -2,7 +2,7 @@ package oopsConcepts.Advance.Tests;
 
 import org.testng.annotations.Test;
 
-import inplement.inheritance.andpolymophism.*;
+import implement.inheritance.andpolymophism.*;
 
 public class InheritanceTests {
 

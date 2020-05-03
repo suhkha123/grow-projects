@@ -3,11 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="oopsConcepts.Advance.Tests.PolymorphismTests">
+      <class name="design.patterns.Tests.DecoratorTests">
         <methods>
-          <include name="methodoverridingTest"/>
+          <include name="redsquareTest"/>
+          <include name="redcircleTest"/>
         </methods>
-      </class> <!-- oopsConcepts.Advance.Tests.PolymorphismTests -->
+      </class> <!-- design.patterns.Tests.DecoratorTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
