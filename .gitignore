@@ -1,2 +1,8 @@
 .metadata
 .sonarlint
+/target/
+/test-output/
+.metadata
+bin/
+tmp/
+*.tmp

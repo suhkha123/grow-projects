@@ -1,0 +1,4 @@
+2020-05-13 22:28:36,083  INFO [main] CloneTests:22 - Employee object is created..
+2020-05-13 22:28:36,085  INFO [main] CloneTests:23 - Employee object 1 data => Suhail-543212-34
+2020-05-13 22:28:36,086  INFO [main] CloneTests:27 - Employee object is cloned into emplist2..
+2020-05-13 22:28:36,086  INFO [main] CloneTests:29 - Employee object 2 data => Suhail-543212-34
