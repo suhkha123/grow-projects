@@ -1,4 +1,9 @@
-2020-05-13 22:28:36,083  INFO [main] CloneTests:22 - Employee object is created..
-2020-05-13 22:28:36,085  INFO [main] CloneTests:23 - Employee object 1 data => Suhail-543212-34
-2020-05-13 22:28:36,086  INFO [main] CloneTests:27 - Employee object is cloned into emplist2..
-2020-05-13 22:28:36,086  INFO [main] CloneTests:29 - Employee object 2 data => Suhail-543212-34
+2020-05-15 23:23:46,771  INFO [main] ArrayQueueTests:24 - [Data Communications & Networking-Forouzan-Mc Graw Hill-4-102, Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103, Data Communications & Networking-Forouzan-Mc Graw Hill-4-102]
+2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Data Communications & Networking-Forouzan-Mc Graw Hill-4-102
+2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Let us C-Yashwant Kanetkar-BPB-8-101
+2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Operating System-Galvin-Wiley-6-103
+2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Data Communications & Networking-Forouzan-Mc Graw Hill-4-102
+2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:31 - After peek=>[Data Communications & Networking-Forouzan-Mc Graw Hill-4-102, Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103, Data Communications & Networking-Forouzan-Mc Graw Hill-4-102]
+2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:34 - After pollFirst=>[Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103, Data Communications & Networking-Forouzan-Mc Graw Hill-4-102]
+2020-05-15 23:23:46,775  INFO [main] ArrayQueueTests:37 - After pollLast=>[Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103]
+2020-05-15 23:23:46,775  INFO [main] ArrayQueueTests:40 - After remove=>[Operating System-Galvin-Wiley-6-103]
