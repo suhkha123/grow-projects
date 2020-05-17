@@ -3,11 +3,11 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="collections.advanced.Tests.PriorityQueueTests">
+      <class name="java8.advanced.Tests.FunctionalInterfaceTests">
         <methods>
-          <include name="booklistTest"/>
+          <include name="predicateTest"/>
         </methods>
-      </class> <!-- collections.advanced.Tests.PriorityQueueTests -->
+      </class> <!-- java8.advanced.Tests.FunctionalInterfaceTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

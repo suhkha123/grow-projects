@@ -1,9 +1,5 @@
-2020-05-15 23:23:46,771  INFO [main] ArrayQueueTests:24 - [Data Communications & Networking-Forouzan-Mc Graw Hill-4-102, Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103, Data Communications & Networking-Forouzan-Mc Graw Hill-4-102]
-2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Data Communications & Networking-Forouzan-Mc Graw Hill-4-102
-2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Let us C-Yashwant Kanetkar-BPB-8-101
-2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Operating System-Galvin-Wiley-6-103
-2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:27 - Data Communications & Networking-Forouzan-Mc Graw Hill-4-102
-2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:31 - After peek=>[Data Communications & Networking-Forouzan-Mc Graw Hill-4-102, Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103, Data Communications & Networking-Forouzan-Mc Graw Hill-4-102]
-2020-05-15 23:23:46,774  INFO [main] ArrayQueueTests:34 - After pollFirst=>[Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103, Data Communications & Networking-Forouzan-Mc Graw Hill-4-102]
-2020-05-15 23:23:46,775  INFO [main] ArrayQueueTests:37 - After pollLast=>[Let us C-Yashwant Kanetkar-BPB-8-101, Operating System-Galvin-Wiley-6-103]
-2020-05-15 23:23:46,775  INFO [main] ArrayQueueTests:40 - After remove=>[Operating System-Galvin-Wiley-6-103]
+2020-05-17 16:15:10,211  INFO [main] DataAndTimeTests:25 - Current Date(yyyy-mm-dd) => 2020-05-17
+2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:26 - Current  time  => 16:15:10.160
+2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:27 - Current Date(yyyy-mm-dd) and time  => 2020-05-17T16:15:10.160
+2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:28 - Is this a leapyear => true
+2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:29 - My age today  => 34years, 3 month(s), and 14 days.

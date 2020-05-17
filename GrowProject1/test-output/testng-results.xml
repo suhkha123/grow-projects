@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38" started-at="2020-05-15T17:53:46Z" finished-at="2020-05-15T17:53:46Z">
+  <suite name="Default suite" duration-ms="31" started-at="2020-05-17T10:45:10Z" finished-at="2020-05-17T10:45:10Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="38" started-at="2020-05-15T17:53:46Z" finished-at="2020-05-15T17:53:46Z">
-      <class name="collections.advanced.Tests.ArrayQueueTests">
-        <test-method status="PASS" signature="booklistTest()[pri:0, instance:collections.advanced.Tests.ArrayQueueTests@544fe44c]" name="booklistTest" duration-ms="14" started-at="2020-05-15T17:53:46Z" finished-at="2020-05-15T17:53:46Z">
+    <test name="Default test" duration-ms="31" started-at="2020-05-17T10:45:10Z" finished-at="2020-05-17T10:45:10Z">
+      <class name="java8.advanced.Tests.DataAndTimeTests">
+        <test-method status="PASS" signature="dateandTimeTest()[pri:0, instance:java8.advanced.Tests.DataAndTimeTests@23faf8f2]" name="dateandTimeTest" duration-ms="10" started-at="2020-05-17T10:45:10Z" finished-at="2020-05-17T10:45:10Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- booklistTest -->
-      </class> <!-- collections.advanced.Tests.ArrayQueueTests -->
+        </test-method> <!-- dateandTimeTest -->
+      </class> <!-- java8.advanced.Tests.DataAndTimeTests -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
