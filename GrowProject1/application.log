@@ -1,5 +1,7 @@
-2020-05-17 16:15:10,211  INFO [main] DataAndTimeTests:25 - Current Date(yyyy-mm-dd) => 2020-05-17
-2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:26 - Current  time  => 16:15:10.160
-2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:27 - Current Date(yyyy-mm-dd) and time  => 2020-05-17T16:15:10.160
-2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:28 - Is this a leapyear => true
-2020-05-17 16:15:10,213  INFO [main] DataAndTimeTests:29 - My age today  => 34years, 3 month(s), and 14 days.
+2020-05-18 14:38:22,180  INFO [main] HashMapTests:24 - wipro->Anusha-443212-54
+2020-05-18 14:38:22,183  INFO [main] HashMapTests:25 - 
+2020-05-18 14:38:22,183  INFO [main] HashMapTests:24 - epam->Sameer-363212-24
+2020-05-18 14:38:22,183  INFO [main] HashMapTests:25 - 
+2020-05-18 14:38:22,183  INFO [main] HashMapTests:24 - microsoft->Jack-743212-38
+2020-05-18 14:38:22,183  INFO [main] HashMapTests:25 - 
+2020-05-18 14:38:22,183  INFO [main] HashMapTests:29 - hcl employee value ->Sal-543212-34

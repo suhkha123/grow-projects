@@ -20,9 +20,9 @@ public class HashMapTests {
 		empcmpny.put("wipro",new EmployeeAL("Anusha", 443212, 54));
 		empcmpny.put("microsoft",new EmployeeAL("Jack", 743212, 38));
 	
-		for (Entry<String,EmployeeAL> emp : empcmpny.entrySet())
+		for (Entry<String,EmployeeAL> emp : empcmpny.entrySet()) {
 			log.info(emp.getKey()+"->"+emp.getValue());
-		
+		}
 		empcmpny.put("hcl",new EmployeeAL( "Sal", 543212, 34));
 		log.info("hcl employee value ->"+empcmpny.get("hcl"));
 
